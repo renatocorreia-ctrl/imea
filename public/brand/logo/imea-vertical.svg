@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 170">
+  <rect x="10" width="100" height="100" fill="#003828"/>
+  <path d="M24 100 C40 60 48 30 50 0 L62 0 C60 35 52 65 38 100 Z" fill="#F2EFEB"/>
+  <path d="M54 100 C68 65 76 35 78 0 L86 0 C84 38 76 68 66 100 Z" fill="#F2EFEB"/>
+  <path d="M78 100 C90 70 96 40 98 0 L104 0 C102 42 96 72 88 100 Z" fill="#F2EFEB"/>
+  <text x="60" y="150" text-anchor="middle" font-family="Ubuntu, sans-serif" font-size="40" font-weight="500" letter-spacing="4" fill="#1A1A18">IMEA</text>
+</svg>
